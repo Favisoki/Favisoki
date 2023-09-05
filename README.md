@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Favisoki/Favisoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Isaac Adedokun
+#### I wear many hats but I put on the hat of a **Data Scientist** all the time.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on AI solutions in healthcare.
+- 🌱 I’m currently learning Go
+- 👯 I’m looking to collaborate on building LLM's for healthcare usecases.
+- 🤔 I’m looking for help with getting an internship.
+- 💬 Ask me about the SDG'S
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/isaac-adedokun-favour)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: ~~I'm from Mars~~
