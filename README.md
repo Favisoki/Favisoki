@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Isaac Adedokun AKA Favisoki
 
-## :book:  mountain hiking
+## :book:  About Me
 #### I wear many hats but I wear that of a **Data Scientist** all the time.
 #### I have a broad range of interests including Open Source, AI, Insurtech, Edtech, Healthtech and Agritech.
 
@@ -25,12 +25,12 @@
 
 
 ## 📫 How to reach me:
-𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
+You can reach me at the email in my Github Profile.
 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Isaac on LinkedIn" title="Follow Isaac on LinkedIn"/>](https://linkedin.com/in/isaac-adedokun-favour)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Isaac on Twitter" title="Follow Isaac on Twitter"/>](https://twitter.com/favisoku_adek)
 
 ## ⚡ List of cool things that went into this profile README
-- Icons for Socials, from Raymo111 [Raymo111 GitHub](https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/) <!-- Thanks to @matyo91's helpful comments in their profile README! -->
+- Icons for Socials, from Raymo111 [Raymo111 GitHub](https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/) <!-- Thanks to @Raymo111's helpful comments in their profile README! -->
 
 
