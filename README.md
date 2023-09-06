@@ -12,11 +12,11 @@
 - Participating in CNCF's Zero-to-Merge Program
 ```
 
-- 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
-	- 𝙶𝚘 mountain hiking!
-	- 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚌𝚘𝚍𝚎 𝚝𝚘 [Tensorflow](https://github.com/google/tensorflow)
-	- Build a startup in the Healthtaech and Insurtech space (𝚒𝚝 𝚒𝚜 𝚋𝚎𝚢𝚘𝚗𝚍 𝚖𝚢 𝚙𝚘𝚠𝚎𝚛 𝚗𝚘𝚠... 𝙸 𝚖𝚞𝚜𝚝 𝚝𝚛𝚊𝚒𝚗 𝚑𝚊𝚛𝚍...)
-	- 𝙶𝚎𝚝 𝚊 𝙵𝙰𝙰𝙽𝙶+ 𝚒𝚗𝚝𝚎𝚛𝚗𝚜𝚑𝚒𝚙 (𝚒𝚏 𝚢𝚘𝚞 𝚑𝚊𝚟𝚎 𝚝𝚑𝚒𝚜 𝚙𝚘𝚠𝚎𝚛 𝚝𝚘 𝚙𝚕𝚎𝚊𝚜𝚎 𝚑𝚒𝚛𝚎 𝚖𝚎)
+- 🤞 One day I hope to...
+	- Go mountain hiking!
+	- Contribute code to [Tensorflow](https://github.com/tensorflow/tensorflow)
+	- Build a startup in the Healthtaech and Insurtech space
+	- Get a FAANG+ internship
 
 - 👯 I’m looking to collaborate on building AI software that solves for any of the SDG's.
 - 🤔 I’m looking for help with getting an internship in Data Science
